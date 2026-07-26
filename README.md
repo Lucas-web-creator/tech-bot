@@ -1,5 +1,6 @@
 
-![Uploading Gemini_Generated_Image_16ex7l16ex7l16ex.png…]()
+![Uploading image.png…]()
+
 
 
 Este projeto foi desenvolvido como parte do desafio prático do bootcamp Formação ChatGPT for Devs da DIO (Digital Innovation One).
