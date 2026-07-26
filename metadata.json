@@ -1,0 +1,6 @@
+{
+  "name": "ChatGPT - Inteligência Artificial & Canvas",
+  "description": "Interface ultra-precisa do ChatGPT com suporte a GPT-4o, GPT-4o mini, Raciocínio o1, Canvas, Pesquisa Web, DALL-E 3, GPTs Customizados e Voz.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
